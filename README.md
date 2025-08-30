@@ -33,6 +33,10 @@ Designed with **TailwindCSS** and **Framer Motion** for a beautiful user experie
   - `transliteration` (general support)  
 
 ---
+## 📸 Screenshots
+<img width="1170" height="870" alt="text-translator" src="https://github.com/user-attachments/assets/e77198cf-767c-46de-ad7c-9a0ff8d915ca" />
+
+
 
 ## 🚀 Getting Started
 
