@@ -28,7 +28,8 @@ Designed with **TailwindCSS** and **Framer Motion** for a beautiful user experie
 
 
 ## 🛠️ Tech Stack
-- **React.js** – Frontend framework  
+- **React.js** – Frontend framework
+- **JavaScript**
 - **TailwindCSS** – Styling  
 - **Framer Motion** – Animations  
 - **RapidAPI (Google Translate)** – Translation API  
