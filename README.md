@@ -20,6 +20,13 @@ Designed with **TailwindCSS** and **Framer Motion** for a beautiful user experie
 
 ---
 
+## 🚀 Live Demo
+👉 [Check it out here](https://translator-appswati.netlify.app/)  
+
+---
+
+
+
 ## 🛠️ Tech Stack
 - **React.js** – Frontend framework  
 - **TailwindCSS** – Styling  
